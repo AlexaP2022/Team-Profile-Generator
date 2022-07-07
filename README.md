@@ -4,7 +4,7 @@
 We were tasked with creating a Node.js command-line application that takes in team member information for a software engineering team and genrates an HTML webpage to neatly display each team members role and relevant contact information.  I also wrote tests using Jest to ensure that the data being passed in is accurate and meets criteria.  As this application will not be deployed a brief video demonstration link is provided below to showcase the functionality of the command-line application.
 
 [Video Demonstration Link](https://drive.google.com/file/d/1ABstDFIChnz0CqKJFspjjEWhGLaub-nG/view)<br><br>
-HTML Page rendered from application: <br>
+Webpage rendered from application html file: <br>
 ![](/screenshots/Sample%20HTML.png)
 
 ## Table of Contents
