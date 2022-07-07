@@ -1,0 +1,45 @@
+:root {
+    --blue: #17a2b8;
+    --grey: #F5F5F5;
+
+}
+
+* {
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.display-4 {
+    color: var(--blue);
+    font-size: 85px;
+    
+}
+
+.lead {
+    font-style: italic;
+    font-size: 17px;
+}
+
+.row {
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: var(--blue);
+}
+
+a:hover {
+    color: var(--grey);
+    background-color:var(--blue);
+}
+

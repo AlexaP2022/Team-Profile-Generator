@@ -1,0 +1,15 @@
+{
+    "name": "1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "AlexaP2022",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^24.9.0",
+      "inquirer":"8.2.4"
+    }
+  }
